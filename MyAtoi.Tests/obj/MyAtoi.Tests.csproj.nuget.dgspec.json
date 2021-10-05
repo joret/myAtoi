@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi.Tests/MyAtoi.Tests.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi.Tests/MyAtoi.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi.Tests/MyAtoi.Tests.csproj",
+        "projectName": "MyAtoi.Tests",
+        "projectPath": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi.Tests/MyAtoi.Tests.csproj",
+        "packagesPath": "/home/marcelo/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/MyAtoi.csproj": {
+                "projectPath": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/MyAtoi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/MyAtoi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/MyAtoi.csproj",
+        "projectName": "MyAtoi",
+        "projectPath": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/MyAtoi.csproj",
+        "packagesPath": "/home/marcelo/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/MyAtoi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
