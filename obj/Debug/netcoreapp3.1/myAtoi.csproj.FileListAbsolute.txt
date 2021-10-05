@@ -1,9 +1,0 @@
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/bin/Debug/netcoreapp3.1/myAtoi
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/bin/Debug/netcoreapp3.1/myAtoi.dll
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/bin/Debug/netcoreapp3.1/myAtoi.pdb
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.csprojAssemblyReference.cache
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.AssemblyInfoInputs.cache
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.AssemblyInfo.cs
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.csproj.CoreCompileInputs.cache
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.dll
-/mnt/c/Users/marce/source/repos/training/leetcode/microsoft/myAtoi/obj/Debug/netcoreapp3.1/myAtoi.pdb
